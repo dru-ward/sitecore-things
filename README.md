@@ -1,1 +1,2 @@
-# sitecore-things
+## 
+Dumping ground for all things Sitecore
